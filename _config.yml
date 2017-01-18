@@ -1,0 +1,4 @@
+name: Alejandro Camara's Cover Letter 
+markdown: redcarpet
+highlighter: rouge # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]

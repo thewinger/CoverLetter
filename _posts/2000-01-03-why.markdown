@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Who Am I"
+date: 2000-01-01 00:00:01
+---
+
+# WHO AM I
+
+My name is Alejandro Cámara, I'm 29 years old and I grew up in Elche (Spain). Design enthusiast, focused in interaction and experience design.
+
+I've been working as a freelance designer and developer for a couple of years now, working most of the time in web and iOS apps. 
+
+Right now I'm working for Universidad Miguel Hernández de Elche as the main designer and developer for their Master's degree landing pages. [example][masterteleco]  
+My approach was to create a modular template (HTML, CSS and JavaScript) so I could easily adapt the information of the +30 Master's degrees.
+  
+I'm also working for [Symposium Events][symposium] as their main Product Designer. My task consists in trying to update it's interface plus coming up with new features.  
+I'm creating a live styleguide so the developers can code the new features. My focus is in creating a modular design system, so every piece of design/code is reusable. 
+
+[masterteleco]: http://masterteleco.umh.es
+[symposium]: http://www.symposium.events
+

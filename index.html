@@ -1,0 +1,18 @@
+---
+layout: default
+title: Alejandro Cámara's Cover Letter 
+---
+
+<main>
+
+{% for post in site.posts reversed %}
+  <section id="{{post.filename}}">
+    <div class="o-wrapper">
+  {{ post.content }}
+    </div>
+  </section>
+{% endfor %}
+
+</main>
+
+
